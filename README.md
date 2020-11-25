@@ -38,19 +38,19 @@ Run the app - THE SERVER MUST BE RUNNING ON THE REQUIRED URL!
 * npm start
 
 ## Features
-* Select the number of tasks to generate / get
+* Select the number of tasks to generate / get <br />
 ![Alt text](./documentation/images/input.png?raw=true "Select Number of Tasks")
 
-* Show the pending tasks (list view)
+* Show the pending tasks (list view) <br />
 ![Alt text](./documentation/images/list-view.png?raw=true "List View")
 
-* Show message if there are no pending tasks
+* Show message if there are no pending tasks <br />
 ![Alt text](./documentation/images/no-pending-tasks.jpg?raw=true "No Pending Tasks")
 
-* Show the task info (task view)
+* Show the task info (task view) <br />
 ![Alt text](./documentation/images/task-view.png?raw=true "Task View")
 
-* Mark a task as done
+* Mark a task as done <br />
 
 * Responsive design <br />
 ![Alt text](./documentation/images/responsive.png?raw=true "Responsive")
