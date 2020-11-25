@@ -51,6 +51,7 @@ Run the app - THE SERVER MUST BE RUNNING ON THE REQUIRED URL!
 ![Alt text](./documentation/images/task-view.png?raw=true "Task View")
 
 * Responsive design
+<br />
 ![Alt text](./documentation/images/responsive.png?raw=true "Responsive")
 
 * Mark a task as done
