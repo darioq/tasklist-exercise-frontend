@@ -1,4 +1,4 @@
-# Tasklist Exercise Frontnd
+# Tasklist Exercise Frontend
 Tasklist exercise frontend for TrueNorth.
 
 ## Table of contents
