@@ -50,10 +50,10 @@ Run the app - THE SERVER MUST BE RUNNING ON THE REQUIRED URL!
 * Show the task info (task view)
 ![Alt text](./documentation/images/task-view.png?raw=true "Task View")
 
-* Mark the task as done
-
 * Responsive design
 ![Alt text](./documentation/images/responsive.png?raw=true "Responsive")
+
+* Mark a task as done
 
 ## Status
 Project is: _finished_
